@@ -1,1 +1,1 @@
-rvm use 1.9.3@baseapp --app
+rvm use 1.9.3@baseapp --create
