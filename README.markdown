@@ -10,6 +10,8 @@ Released under the MIT License.
 - Capybara
 - Devise
 - Twitter Bootstrap
+- Simple Form
+  - Installed with boostrap option
 
 ## Other Customizations
 - Action Mailer
