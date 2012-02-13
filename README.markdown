@@ -19,3 +19,6 @@ Released under the MIT License.
   - Raises delivery errors in development
 - Development server
   - Turn of asset expansion in output
+
+## Important things when to creating an app from this
+- Set default devise email in devise.rb initializer
