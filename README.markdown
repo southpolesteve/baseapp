@@ -1,7 +1,9 @@
 # Base App for Rails 3.2
+This is a basic template app for Rails 3.2, Heroku, Twitter Boostrap, and more...
 
-## Includes the following gems:
+Released under MIT License.
 
+### Includes the following gems
 - Postgres
 - Rspec
 - Factory Girl
@@ -9,7 +11,9 @@
 - Devise
 - Twitter Bootstrap
 
-## Other customizations:
-- Action mailer
+### Other customizations
+- Action Mailer
   - Does not send mail in development
   - Raises delivery errors in development
+- Server Output
+  - Turn of asset expansion in development
