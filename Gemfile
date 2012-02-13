@@ -8,6 +8,7 @@ gem 'unicorn'
 gem 'haml-rails'
 gem 'sass-rails'
 gem 'bootstrap-sass'
+gem 'simple_form'
 
 group :assets do
   gem 'coffee-rails', '~> 3.2.1'
