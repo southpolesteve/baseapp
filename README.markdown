@@ -12,6 +12,8 @@ Released under the MIT License.
 - Twitter Bootstrap
 - Simple Form
   - Installed with boostrap option
+- Pry
+  - Only in development
 
 ## Other Customizations
 - Action Mailer
