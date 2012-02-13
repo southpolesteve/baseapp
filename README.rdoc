@@ -1,12 +1,13 @@
 # Base App for Rails 3.2
 
-## Setup for:
+## Includes the following gems:
 
 - Postgres
 - Rspec
 - Factory Girl
 - Capybara
 - Devise
+- Twitter Bootstrap
 
 ## Other customizations:
 - Action mailer
