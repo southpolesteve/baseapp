@@ -11,3 +11,7 @@ end
 
 gem 'jquery-rails'
 gem 'unicorn'
+
+group :development, :test do
+  gem 'rspec-rails'
+end
