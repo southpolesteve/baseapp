@@ -5,3 +5,4 @@
 - Postgres
 - Rspec
 - Factory Girl
+- Capybara
