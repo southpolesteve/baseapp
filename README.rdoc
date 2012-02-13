@@ -6,3 +6,9 @@
 - Rspec
 - Factory Girl
 - Capybara
+- Devise
+
+## Other customizations:
+- Action mailer
+  - Does not send mail in development
+  - Raises delivery errors in development
