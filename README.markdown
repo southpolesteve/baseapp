@@ -15,5 +15,5 @@ Released under the MIT License.
 - Action Mailer
   - Does not send mail in development
   - Raises delivery errors in development
-- Server Output
-  - Turn of asset expansion in development
+- Development server
+  - Turn of asset expansion in output
