@@ -5,6 +5,7 @@ gem 'pg'
 gem 'devise'
 gem 'jquery-rails'
 gem 'unicorn'
+gem 'haml-rails'
 
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'
