@@ -24,3 +24,7 @@ Released under the MIT License.
 
 ## Important things when to creating an app from this
 - Set default devise email in devise.rb initializer
+- 
+## TODO
+- Add queit assets gem
+- Add twitter anf facebook auth
